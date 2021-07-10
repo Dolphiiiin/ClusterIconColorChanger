@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3305e68-ffeb-417d-b16e-4ec843dfb2e2" name="デフォルト変更リスト" comment="FirstCommit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       <updated>1625892746374</updated>
       <workItem from="1625892747550" duration="1288000" />
       <workItem from="1625894788500" duration="3768000" />
-      <workItem from="1625898585220" duration="1262000" />
+      <workItem from="1625898585220" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1625898381541</created>
