@@ -90,7 +90,7 @@ function addText() {
     ctx.fillStyle = document.getElementById("c3").value;
     ctx.fillRect(480, 480, 32, 32);
     ctx.fillStyle = document.getElementById("c4").value;
-    ctx.fillRect(480, 480, 32, 32);
+    ctx.fillRect(0, 480, 32, 32);
 }
 
 
